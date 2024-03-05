@@ -1,1 +1,1 @@
- * `classes.md` - explains types and classes in python
+ * `types.md` - explains types/classes in python
