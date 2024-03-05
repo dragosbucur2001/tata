@@ -6,8 +6,8 @@ Every variable has a value and a type associated with it.
 foo = 5
 ```
 
-The variable "foo" currently has a value of 5. In order to find out the
-type of variable "foo" you can use the function type() (e.g. type(foo))
+The variable `foo` currently has a value of `5`. In order to find out the
+type of variable `foo` you can use the function `type()` (e.g. `type(foo)`)
 
 ```python
 foo = 5
@@ -71,7 +71,7 @@ def greet(name: str):
     print("Hello, " + name)
 ```
 
-Now, everybody who will use this function knows that they should only pass strings to the greet
+Now, everybody who will use this function knows that they should only pass strings to the `greet`
 function. This can prevent issues like passing in variables that would result in errors, like:
 
 ```python
